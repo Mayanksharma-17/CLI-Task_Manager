@@ -1,8 +1,6 @@
 # CLI Task Manager
 
-This is a simple Command Line Task Manager built using Python.
-
-I created this project to practice file handling, user authentication, and working with real project structure using Git and GitHub.
+A simple Command Line Task Manager built using Python.
 
 ---
 
@@ -16,16 +14,6 @@ I created this project to practice file handling, user authentication, and worki
 - Store everything locally using text files
 
 The data is saved so tasks remain even after closing the program.
-
----
-
-## Technologies Used
-
-- Python 3
-- File Handling
-- Hashlib (for password hashing)
-- Basic OOP concepts
-- Git & GitHub
 
 ---
 
